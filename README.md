@@ -3,25 +3,24 @@ Helin Evliyaoglu
 
 #### Exercice 1
 
-![ERDiagram1](assets/1.png)
+![Diagram XX](path/to/1.png)
 
 #### Exercice 2
 
-![ERDiagram1](assets/2.png)
+![Diagram XX](path/to/2.png)
 
 #### Exercice 3
 
-![ERDiagram1](assets/3.png)
+![Diagram XX](path/to/3.png)
 
 #### Exercice 4
 
-![ERDiagram1](assets/4.png)
+![Diagram XX](path/to/4.png)
 
 #### Exercice 5 
 
-![ERDiagram1](assets/5.png)
+![Diagram XX](path/to/5.png)
 
 #### Exercice 6
 
-![ERDiagram1](assets/6.png)
-
+![Diagram XX](path/to/6.png)
