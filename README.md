@@ -3,7 +3,7 @@ Helin Evliyaoglu
 
 #### Exercice 1
 
-![Diagram XX](path/to/1.png)
+![Diagram XX](1.png)
 
 #### Exercice 2
 
