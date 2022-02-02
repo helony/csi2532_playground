@@ -1,26 +1,26 @@
 # csi2532_playground
 Helin Evliyaoglu
 
-#### Exercice 1
+#### Ex1
 
 ![Diagram XX](1.png)
 
-#### Exercice 2
+#### Ex2
 
-![Diagram XX](path/to/2.png)
+![Diagram XX](2.png)
 
-#### Exercice 3
+#### Ex3
 
-![Diagram XX](path/to/3.png)
+![Diagram XX](3.png)
 
-#### Exercice 4
+#### Ex4
 
-![Diagram XX](path/to/4.png)
+![Diagram XX](4.png)
 
-#### Exercice 5 
+#### Ex5 
 
-![Diagram XX](path/to/5.png)
+![Diagram XX](5.png)
 
-#### Exercice 6
+#### Ex6
 
-![Diagram XX](path/to/6.png)
+![Diagram XX](6.png)
