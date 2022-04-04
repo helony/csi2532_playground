@@ -1,17 +1,7 @@
 <?php
 
-//obtien toutes les headers
 $all = getallheaders();
 header("Content-Type: application/json");
-
-// retourner hello world
-// $reply = ["hello" => "world"];
-// echo json_encode($reply);
-// echo "\n";
-
-//retourner toutes les headers
-// echo json_encode($all);
-// echo "\n";
 
 $xmen = $all["X-Men"] ?? null;
 if (!$xmen) {
@@ -19,7 +9,6 @@ if (!$xmen) {
     exit;
 } 
 
-// noms de tout les membres des x-men des années 1970s https://en.wikipedia.org/wiki/List_of_X-Men_members
 switch ($xmen) {
     case "Wolverine":
         $name = "James \"Logan\" Howlett";
